@@ -1,0 +1,9 @@
+uploads
+wp-content/themes/twentynineteen
+wp-content/themes/twentyseventeen
+wp-content/themes/twentytwenty
+wp-content/plugins/hello.php
+node_modules/
+*.log
+*.sql
+*.sqlite

