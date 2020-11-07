@@ -88,7 +88,7 @@ require_once( ABSPATH . 'wp-settings.php' );
 // define('DISALLOW_FILE_EDIT', true);
 // define('DISALLOW_FILE_MODS', false);
 define('FS_METHOD','direct');
-
+define( 'WP_DEBUG', true );
 
 // define( 'WP_DEBUG', true );
 
